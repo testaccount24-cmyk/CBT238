@@ -1,0 +1,5 @@
+2025-04-04 06:30:09.221610 - Received CBT.V508.FILE238.PDS from FILE238.XMI 
+2025-04-04 06:30:09.222175 - Found CPARM.bin (application/octet-stream) in CBT.V508.FILE238.PDS, moved to PDS/CPARM
+2025-04-04 06:30:09.222366 - Found PRCBGEN.bin (application/octet-stream) in CBT.V508.FILE238.PDS, moved to PDS/PRCBGEN
+2025-04-04 06:30:09.222574 - Found REASM.bin (application/octet-stream) in CBT.V508.FILE238.PDS, moved to PDS/REASM
+2025-04-04 06:30:09.222761 - Found REASMOLD.bin (application/octet-stream) in CBT.V508.FILE238.PDS, moved to PDS/REASMOLD
